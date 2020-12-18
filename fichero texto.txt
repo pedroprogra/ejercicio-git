@@ -1,1 +1,2 @@
 fichero texto
+e. Efectua qualsevol altre canvi al document i tot seguir realitzar l’acció “add” “commit” i “push”
